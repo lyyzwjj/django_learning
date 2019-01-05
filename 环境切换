@@ -1,0 +1,7 @@
+cd /Users/wjj/anaconda3/bin
+./conda
+conda info --envs
+conda env list
+
+activate your_env_name
+deactivate
